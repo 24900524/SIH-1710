@@ -17,10 +17,10 @@ By combining indoor mapping, real-time updates, and user-friendly interfaces, th
 
 ## Proposed Solution / Architecture Diagram
 The proposed system is a multi-platform navigation solution consisting of:
-1)Mobile Application
-2)Station-installed Digital Kiosks
-3)Central Backend Server
-4)Indoor Mapping & Location Services
+#### 1)Mobile Application
+#### 2)Station-installed Digital Kiosks
+#### 3)Central Backend Server
+#### 4)Indoor Mapping & Location Services
 
 <img width="3792" height="1834" alt="image" src="https://github.com/user-attachments/assets/4d7aea48-686e-40c7-b0c5-e3e366c1e7c1" />
 
