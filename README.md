@@ -88,9 +88,9 @@ Text-to-Speech (TTS) for voice navigation
 Speech Recognition for voice commands
 
 ## Dependencies
-Accurate and updated railway station layout data
-Indoor positioning hardware (beacons / QR markers)
-Internet connectivity for real-time updates
-Integration with Indian Railways existing apps and databases
-Maintenance support for regular station layout changes
+# Accurate and updated railway station layout data
+# Indoor positioning hardware (beacons / QR markers)
+# Internet connectivity for real-time updates
+# Integration with Indian Railways existing apps and databases
+# Maintenance support for regular station layout changes
 
